@@ -5,7 +5,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <array name="partner_wallpapers" translatable="false">
-        <item>sky</item>
+        <item>mountains_sky</item>
         <item>rainy_night</item>
         <item>abstract_sky</item>
         <item>mountains</item>
